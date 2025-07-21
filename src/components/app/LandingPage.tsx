@@ -11,7 +11,7 @@ const LandingPage = () => {
       <div className="mt-5 text-center">
         <h3 className="text-center text-3xl mt-[4rem] font-bold md:text-5xl md:leading-normal">
           
-          Effortlessly create notes <br /> with simplicity.
+          Effortlessly create notes <br /> with Grace.
         </h3>
         <p className="text-center mt-5 px-6">
           Capture Your Thoughts, Anytime, Anywhere – Your Personal Note-Taking
